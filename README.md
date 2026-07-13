@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aswin Saranraj R S
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=ASWIN SARANRAJ R S&fontColor=ffffff&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=ASWIN&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
