@@ -1,209 +1,87 @@
-# 👋 Hi, I'm Aswin
+# 👋 Hi, I'm Aswin Saranraj R S
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;IoT+Developer;ESP32+Enthusiast;Arduino+Developer;AI+for+Electronics;Always+Building+Something+New"/>`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=ASWIN&fontColor=ffffff&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=ASWIN&fontColor=ffffff&desc=Embedded%20Systems%20|%20IoT%20|%20AI"/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;IoT+Developer;ESP32+Developer;Arduino+Developer;AI+for+Electronics;Always+Learning"/>
 </p>
-```
+
 ## 🚀 About Me
 
-``` yaml
-Name        : Aswin
-Degree      : B.E. Electronics and Communication Engineering
-Location    : Tamil Nadu, India
+- 🎓 B.E. Electronics and Communication Engineering
+- 📍 Tamil Nadu, India
+- 💡 Passionate about Embedded Systems, IoT and AI
+- 🌱 Currently learning STM32, FreeRTOS and Embedded Linux
+- 🎯 Goal: Embedded Engineer
 
-Focus:
-- Embedded Systems
-- IoT Development
-- Artificial Intelligence
-- PCB Design
-- Automation
-
-Languages:
-- C
-- Embedded C
-- Python
-
-Learning:
-- STM32
-- FreeRTOS
-- Embedded Linux
-
-Goal:
-Embedded Software Engineer
-```
-
-## ⚡ Current Status
-
-``` text
-🟢 Building      : Rail Sentinel
-📚 Learning      : STM32 | FreeRTOS | PCB Design
-💼 Open To       : Embedded Systems Opportunities
-```
-
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,python"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 </p>
-```
-### Boards
-
--   Arduino Uno
--   ESP32
--   Raspberry Pi Pico
--   STM32 (Learning)
 
 ### Tools
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
-```
-Arduino IDE • Proteus • MATLAB • Thonny • Blynk • ThingSpeak • Telegram
-Bot
 
-## 📡 Embedded Skills
+Arduino IDE • Proteus • MATLAB • Thonny • Blynk • ThingSpeak • Telegram Bot
 
--   GPIO
--   UART
--   SPI
--   I2C
--   PWM
--   ADC
--   Sensor Interfacing
--   IoT
+## 📡 Hardware
+
+- ESP32
+- Arduino Uno
+- Raspberry Pi Pico
+- STM32 (Learning)
 
 ## 🚀 Featured Projects
 
 ### 🚆 Rail Sentinel
-
-Railway track monitoring using ESP32, pressure sensors, Telegram alerts
-and Blynk dashboard.
-
-**Tech:** ESP32 • Pressure Sensor • Blynk • Telegram Bot
-
-------------------------------------------------------------------------
+Railway monitoring using ESP32, pressure sensor, Blynk and Telegram alerts.
 
 ### 🖊 Mini CNC Plotter
-
-2-axis CNC plotter using Arduino Uno, Adafruit Motor Shield and DVD
-stepper motors.
-
-**Tech:** Arduino • Embedded C • G-Code
-
-------------------------------------------------------------------------
+Arduino CNC plotter using DVD stepper motors and SG90 servo.
 
 ### 🔥 AI Fire Detection
+YOLO + OpenCV + ESP32-CAM based fire detection.
 
-Real-time fire detection using ESP32-CAM, YOLO and OpenCV.
+### ⚡ Driver anti sleep detection
+sleep detector of a long drivers to avoid accidents.
 
-**Tech:** Python • YOLO • ESP32-CAM
-
-------------------------------------------------------------------------
-
-### ⚡ Omni Harvester
-
-Universal hybrid energy harvesting system for IoT applications.
-
-------------------------------------------------------------------------
-
-### 🔋 Smart Energy Monitoring
-
-IoT-based energy monitoring using ESP32.
+### 🔋 Pulse monitoring and Alert system
+Pulse monitoring and alert system using esp32 cloud.
 
 ## 💼 Experience
 
-### VI Microsystems
-
--   Embedded Systems
--   PCB Design
--   Raspberry Pi Pico
--   MicroPython
-
-### Integral Coach Factory (ICF)
-
-Industrial Training
-
-### BSNL
-
-Telecommunication Training
+- **VI Microsystems** – Embedded Systems - Raspberry pi pico W & PCB Design
+- **Power Intergrated solutions** – embedded systems esp32 and ardiuno controllers
+- **BSNL** – Telecommunication Training
 
 ## 📊 GitHub Stats
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Aswin1617-pro&show_icons=true&theme=tokyonight"/>`{=html}
-```{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=Aswin1617-pro&show_icons=true&theme=tokyonight"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin1617-pro&theme=tokyonight"/>`{=html}
-```{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin1617-pro&theme=tokyonight"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin1617-pro&theme=tokyo-night"/>`{=html}
-```{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin1617-pro&theme=tokyo-night"/>
 </p>
-```
-```{=html}
+
+## 🌐 Connect
+
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=Aswin1617-pro&theme=tokyonight&row=1&column=6"/>`{=html}
-```{=html}
+<a href="https://github.com/Aswin1617-pro"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/aswin-saranraj-r-s-75a38931b"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:nmaswin21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Aswin1617-pro&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-## 🌐 Connect With Me
 
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/Aswin1617-pro">`{=html}
-`<img src="https://skillicons.dev/icons?i=github"/>`{=html}
-`</a>`{=html}
+---
 
-`<a href="https://linkedin.com/in/aswin-saranraj-r-s-75a38931b">`{=html}
-`<img src="https://skillicons.dev/icons?i=linkedin"/>`{=html}
-`</a>`{=html}
-
-`<a href="mailto:nmaswin21@gmail.com">`{=html}
-`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html} `</a>`{=html}
-
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-> **Building intelligent embedded systems by combining Electronics, IoT
-> and AI.**
+> **Building intelligent embedded systems by combining Electronics, IoT and AI.**
